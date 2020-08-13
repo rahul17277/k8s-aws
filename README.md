@@ -1,6 +1,6 @@
 # k8s-aws
 
-## k8s cluster 1 master multipule node using kubeadm
+## k8s cluster 1 master multiple node using kubeadm
 
 ## Prerequisites:
 
